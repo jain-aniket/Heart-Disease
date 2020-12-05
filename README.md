@@ -12,23 +12,23 @@ https://archive.ics.uci.edu/ml/datasets/heart+disease
 
 The file, "heart-disease.names" contains the following:
 
-  Publication Request
+    Publication Request
   
-  Title
+    Title
   
-  Source Information
+    Source Information
   
-  Past Usage
+    Past Usage
   
-  Relevant Information
+    Relevant Information
   
-  Number of Instances
+    Number of Instances
   
-  Number of Attributes
+    Number of Attributes
   
-  Attribute Information
+    Attribute Information
   
-  Missing Attribute Values
+    Missing Attribute Values
   
-  Class Distribution
+    Class Distribution
   

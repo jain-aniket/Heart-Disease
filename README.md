@@ -46,4 +46,4 @@ The file, "heart-disease.names" contains the following:
   
 
 
-(https://webcam-attentiveness.herokuapp.com)[https://webcam-attentiveness.herokuapp.com]
+(https://webcam-attentiveness.herokuapp.com)
